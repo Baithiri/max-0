@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(red, green, blue);
+
+}
+.content-section {
+    background-color: aqua;
+    margin: 40px;
+    padding: 1.5rem 1.5rem;
+    border-radius: 10px;
+}
